@@ -1,3 +1,11 @@
 node_modules
 
 .env
+
+# lock files
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+
+# migration lock file
+migration_lock.toml
